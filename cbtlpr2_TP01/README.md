@@ -1,3 +1,5 @@
+Elaborado por Eduardo Barbosa Rodrigues e Vinicius Pontes Oliva.
+
 Exercício 01 Uma classe chamada Author é desenhada para servir de modelo para autores de livros, veja abaixo:
 
 3 atributos privados name (String), email (String), and gender (char contendo 'm' or 'f');

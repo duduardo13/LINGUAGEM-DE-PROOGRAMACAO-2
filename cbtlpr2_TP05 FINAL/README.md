@@ -2,6 +2,7 @@
 
 **Aluno:** Eduardo Barbosa Rodrigues - CB302637X
 
+
 Crie uma tela para cadastro de aluno de academia com os seguintes requisitos, os seguintes campos são <strong>obrigatórios</strong>
 1. Nome (String)
 2. Idade (int)

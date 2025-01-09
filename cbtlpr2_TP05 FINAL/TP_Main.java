@@ -9,8 +9,6 @@ import java.sql.*;
 
 public class TP_Main extends JFrame 
 {
-	//Desenvolvido por Beatriz Bastos Borges e Miguel Luizatto Alves
-	
     private static Connection connection;
 
     private JTextField campoNome;
